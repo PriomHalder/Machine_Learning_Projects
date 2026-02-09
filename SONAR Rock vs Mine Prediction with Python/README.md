@@ -1,7 +1,7 @@
 
 # 🧾 SONAR Rock vs Mine Prediction with Python 
 
-Detecting whether the object between the submarine is a Rock or a Mine using Python, numpy, pandas and other Python libraries.
+Detecting whether the object is a Rock or a Mine using Python, numpy, pandas and other Python libraries.
 
 ---
 
