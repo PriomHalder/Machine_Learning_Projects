@@ -64,7 +64,7 @@ project plan/
     ├── model evaluation by accuracy test for both train and test data
     ├── making a predictive system and testing the model using the given data and new data
 │
-├── publish/                    # Python scripts for ingestion and processing
+├── publish/                   
 │   ├── creating a new GitHub repository
 │   └── pushing the project's files using Git
 
